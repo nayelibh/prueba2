@@ -1,4 +1,7 @@
-o "  MENU    "
+#!/bin/bash
+
+
+echo "  MENU    "
 
 
 echo "a. fecha del dia"
