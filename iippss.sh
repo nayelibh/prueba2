@@ -41,11 +41,7 @@ case $num in
 	 	
 																				      *)
 																			                      echo "la opcion dada es incorrecta"
-																					      ;;
-																			
-																		
-																			
-																			
+																					      ;;																			
 																				 esac
 
 																	
